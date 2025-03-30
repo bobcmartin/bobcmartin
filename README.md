@@ -1,6 +1,6 @@
 # Bob Martin 
 Wizard of Make / Senior Staff Engineer Microchip Technology
-30+ years experience in embedded system design. 1
+30+ years experience in embedded system design.
 15 years with Atmel / Microchip
 Technical liason for MIcrochip to the Maker / Open Source ecosystem.
 
